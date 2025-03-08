@@ -37,9 +37,7 @@ I am always eager to **collaborate, learn, and solve complex business challenges
 
 ## **📌 My Projects**  
 
-### 🛠 **ERP & Odoo Projects**
-- **[Odoo POS Enhancement](https://github.com/ayushm180902/odoo-pos-enhancement)** – Implemented advanced features in Odoo POS for better user experience  
-- **[Odoo Subscription Management](https://github.com/ayushm180902/odoo-subscription-management)** – Automated subscription workflows using Odoo  
+
 
 ### 🌐 **Web Development & AI Projects**
 - **[Laravel-based Business Management System](https://github.com/ayushm180902/laravel-business-management)** – Developed a business management system with PHP (Laravel)  
