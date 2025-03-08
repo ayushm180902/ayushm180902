@@ -4,6 +4,8 @@
 
 I am passionate about **ERP solutions, AI-driven decision-making, and business process optimization**. With a strong foundation in **Odoo Functional & Customization**, I am dedicated to **streamlining business operations** through smart and efficient ERP implementations.  
 
+---
+
 ## 🔹 About Me  
 
 - 🎯 **Odoo Techno-Functional Intern** at Reliution  
@@ -30,6 +32,17 @@ I am always eager to **collaborate, learn, and solve complex business challenges
 - 🏆 Project & Team Management  
 - 📈 Data Analysis & Reporting  
 - 🤝 Client Communication & Requirement Gathering  
+
+---
+
+## **📌 My Projects**  
+
+
+### 🌐 **Web Development & AI Projects**
+- **[Laravel-based Business Management System](https://github.com/ayushm180902/laravel-business-management)** – Developed a business management system with PHP (Laravel)  
+- **[AI-Powered Data Analysis](https://github.com/ayushm180902/ai-data-analysis)** – Built an AI-driven data analytics tool for business insights  
+
+📌 **Check out all my projects here** → [GitHub Repositories](https://github.com/ayushm180902?tab=repositories)  
 
 ---
 
