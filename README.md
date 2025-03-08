@@ -37,6 +37,9 @@ I am always eager to **collaborate, learn, and solve complex business challenges
 
 ## **📌 My Projects**  
 
+### 🛠 **ERP & Odoo Projects**
+- **[Odoo POS Enhancement](https://github.com/ayushm180902/odoo-pos-enhancement)** – Implemented advanced features in Odoo POS for better user experience  
+- **[Odoo Subscription Management](https://github.com/ayushm180902/odoo-subscription-management)** – Automated subscription workflows using Odoo  
 
 ### 🌐 **Web Development & AI Projects**
 - **[Laravel-based Business Management System](https://github.com/ayushm180902/laravel-business-management)** – Developed a business management system with PHP (Laravel)  
@@ -57,7 +60,7 @@ I am always eager to **collaborate, learn, and solve complex business challenges
 
 📬 Reach out for **collaborations and discussions** in **ERP, AI, and Business Analytics**!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-majithiya-691689246)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/ayushm180902)  
 
 ---
